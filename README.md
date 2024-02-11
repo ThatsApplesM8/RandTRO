@@ -16,8 +16,8 @@ Modifications:
         the arrOfPictures[] array as a String
         (e.g. "https://example.com/html")
 
-        --> Recommend using short URL Websites to receive a shortened link
-            link. (Ex: https://is.gd/create.php)
+    --> Recommend using short URL Websites to receive a shortened link
+        link. (Ex: https://is.gd/create.php)
 
 
 
